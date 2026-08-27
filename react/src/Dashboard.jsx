@@ -1,4 +1,5 @@
 import Timestamp from "./Timestamp";
+import Modifier from "./Modifier";
 import UserCard from "./UserCard";
 
 function Dashboard() {
