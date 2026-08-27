@@ -1,3 +1,4 @@
+import Timestamp from "./Timestamp";
 import UserCard from "./UserCard";
 
 function Dashboard() {
