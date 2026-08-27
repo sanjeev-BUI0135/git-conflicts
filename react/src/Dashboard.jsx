@@ -1,3 +1,4 @@
+import Modifier from "./Modifier";
 import UserCard from "./UserCard";
 
 function Dashboard() {
