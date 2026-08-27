@@ -1,4 +1,4 @@
-import Modifier from "./Modifiers";
+import Modifier from "./Modifier";
 import UserCard from "./Controller";
 import UserCard from "./UserCard";
 
