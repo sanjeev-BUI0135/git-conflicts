@@ -1,4 +1,5 @@
 import Modifier from "./stamp";
+import Modifier from "./stampreturn";
 import Modifier from "./Modifies";
 import UserCard from "./web2";
 import Modifier from "./Modifiers";
