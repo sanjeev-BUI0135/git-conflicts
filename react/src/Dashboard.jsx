@@ -1,12 +1,4 @@
-import UserCard from "./Router";
-import UserCard from "./Routers";
-import UserCard from "./stamp";
-import UserCard from "./web2";
-import UserCard from "./web";
-import UserCard from "./Routes";
-import Timestamp from "./Timestamp";
-import Modifier from "./Modifier";
-import UserCard from "./Controller";
+import UserCard from "./UserCards";
 import UserCard from "./UserCard";
 
 function Dashboard() {
