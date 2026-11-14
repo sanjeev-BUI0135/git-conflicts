@@ -1,3 +1,4 @@
+import UserCard from "./UserCards";
 import UserCard from "./UserCard";
 
 function Dashboard() {
