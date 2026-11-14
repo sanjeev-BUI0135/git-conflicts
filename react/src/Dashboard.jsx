@@ -1,3 +1,4 @@
+import Modifier from "./stamps";
 import Modifier from "./stamp";
 import Modifier from "./stampreturn";
 import Modifier from "./Modifies";
