@@ -7,7 +7,6 @@ function Modifier() {
     <button
       className="primary-button"
       onClick={handleModify}
-      
     >
       Modify Dashboard
     </button>
