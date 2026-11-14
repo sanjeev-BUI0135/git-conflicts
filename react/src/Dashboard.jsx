@@ -1,5 +1,5 @@
 import Modifier from "./stampdahborad";
-import Modifier from "./stamps";
+import Modifier from "./stamps1";
 import Modifier from "./stamp";
 import Modifier from "./stampreturn";
 import Modifier from "./Modifies";
